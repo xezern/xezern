@@ -1,8 +1,8 @@
- [![MasterHead](https://media.licdn.com/dms/image/D4D16AQHFH9zjJn12_g/profile-displaybackgroundimage-shrink_200_800/0/1697617697697?e=2147483647&v=beta&t=Q-2Jv7T5MSUm0lRiNWQeccTwG5oAG72nnWlrCkQRJEs)
+ [![MasterHead](https://www.xezernn.com/favicon.ico)
 <h1 align="center">Hi 👋, I'm Khazar Novruz</h1>
 <h3 align="center">Passionate front-end developer with a knack for creating intuitive and dynamic user interfaces. Skilled in HTML, CSS, JavaScript, React, Node.js, and Express. Continuously learning and exploring new technologies to enhance web experiences.</h3>
 
-- 🔭 I’m currently working on [Superfon.az](https://superfon.vercel.app)
+- 🔭 I’m currently working on [ADSEA](https://adsea.gov.az/)
 
 - 🤝 I’m looking for help with **Stack Overflow**
 
