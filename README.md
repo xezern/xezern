@@ -1,4 +1,4 @@
- [![MasterHead](https://www.xezernn.com/favicon.ico)
+ ![MasterHead](https://www.xezernn.com/favicon.ico)
 <h1 align="center">Hi 👋, I'm Khazar Novruz</h1>
 <h3 align="center">Passionate front-end developer with a knack for creating intuitive and dynamic user interfaces. Skilled in HTML, CSS, JavaScript, React, Node.js, and Express. Continuously learning and exploring new technologies to enhance web experiences.</h3>
 
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **TailwindCss, SaSS, React, Next.js Node.js Express.js Mongo**
 
-- 📫 How to reach me **xezernovruz79@gmail.com**
+- 📫 How to reach me **novruzxazar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
